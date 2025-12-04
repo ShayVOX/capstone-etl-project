@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OECD Electricity ETL & Analytics Dashboard  
 Digital Futures – Data Engineering Capstone Project
 
@@ -287,5 +288,6 @@ Sailesh Vyas
 Digital Futures – Data Engineering Academy
 
 This project demonstrates applied capability across data pipeline engineering, validation testing, workflow orchestration, and analytical presentation.
+
 
 

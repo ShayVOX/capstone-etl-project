@@ -1,0 +1,44 @@
+============================================================
+CAPSTONE PROJECT DIAGNOSTICS SUMMARY
+============================================================
+
+Timestamp: 2025-12-02T20:13:44.145843
+Platform: Windows-10-10.0.26100-SP0
+Python: 3.11.9
+Working directory: D:\_DigitalFutures13092025\TechnicalSkills\ETL\pandas\CAPSTONE-ETL\capstone-etl-project
+
+----------------------------------------
+PROJECT STRUCTURE
+----------------------------------------
+no ext: 1 files
+.md: 1 files
+.py: 1 files
+.toml: 1 files
+.txt: 1 files
+
+Python files: 6984
+Data files: 75
+
+----------------------------------------
+PYTHON ENVIRONMENT
+----------------------------------------
+Virtual env: D:\_DigitalFutures13092025\TechnicalSkills\ETL\pandas\CAPSTONE-ETL\capstone-etl-project\.venv
+Conda env: Not detected
+
+----------------------------------------
+DEPENDENCIES
+----------------------------------------
+Requirements files: requirements.txt, pyproject.toml
+Installed packages: 56
+
+----------------------------------------
+GIT STATUS
+----------------------------------------
+Git repository: No
+
+============================================================
+RECOMMENDED NEXT STEPS:
+1. Share the JSON report with your AI assistant
+2. Describe what you're unhappy about
+3. Specify your goals for the project
+============================================================
