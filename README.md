@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OECD Electricity ETL & Analytics Dashboard  
 Digital Futures – Data Engineering Capstone Project
 
